@@ -14,3 +14,5 @@ https://github.com/eclipse-openj9/openj9/issues/new/choose
 
 For more information about Semeru Support or IBM Runtimes for Business, visit our Support page
 https://www.ibm.com/support/pages/semeru-runtimes-support/
+
+Customers who receive commercial support from IBM should report problems to [IBM Support](https://www.ibm.com/support/home/).
