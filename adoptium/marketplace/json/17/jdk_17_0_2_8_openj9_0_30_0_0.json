@@ -17,9 +17,7 @@
 			"timestamp": "2022-03-14T17:37:29Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "aix",
 			"architecture": "ppc64",
@@ -34,9 +32,7 @@
 			"timestamp": "2022-03-14T17:37:38Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -51,9 +47,7 @@
 			"timestamp": "2022-03-14T17:38:04Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -68,9 +62,7 @@
 			"timestamp": "2022-03-14T17:38:30Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -85,9 +77,7 @@
 			"timestamp": "2022-03-14T17:38:53Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -103,8 +93,7 @@
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/jdk17_aarch64_linux.zip"
 		}, {
 			"os": "aix",
 			"architecture": "ppc64",
@@ -120,8 +109,7 @@
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/jdk17_ppc64_aix.zip"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -137,8 +125,7 @@
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/jdk17_ppc64le_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -154,8 +141,7 @@
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/jdk17_s390x_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -171,8 +157,7 @@
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.2%2B8_openj9-0.30.0/jdk17_x86-64_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -187,9 +172,7 @@
 			"timestamp": "2022-03-14T17:41:15Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "aix",
 			"architecture": "ppc64",
@@ -204,9 +187,7 @@
 			"timestamp": "2022-03-14T17:41:18Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -221,9 +202,7 @@
 			"timestamp": "2022-03-14T17:41:20Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -238,9 +217,7 @@
 			"timestamp": "2022-03-14T17:41:23Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -255,9 +232,7 @@
 			"timestamp": "2022-03-14T17:41:25Z",
 			"scm_ref": "v0.30.0-release",
 			"openjdk_scm_ref": "v0.30.0-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}],
 		"vendor": "ibm",
 		"openjdk_version_data": {

@@ -17,9 +17,7 @@
 			"timestamp": "2022-02-27T15:09:01Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -34,9 +32,7 @@
 			"timestamp": "2022-02-27T15:09:12Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -51,9 +47,7 @@
 			"timestamp": "2022-02-27T15:09:32Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -68,9 +62,7 @@
 			"timestamp": "2022-02-27T15:09:43Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "aix",
 			"architecture": "ppc64",
@@ -86,8 +78,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_ppc64_aix.zip"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -103,8 +94,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_ppc64le_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -120,8 +110,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_s390x_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -137,8 +126,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_x86-64_linux.zip"
 		}, {
 			"os": "aix",
 			"architecture": "ppc64",
@@ -153,9 +141,7 @@
 			"timestamp": "2022-02-27T15:11:38Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -170,9 +156,7 @@
 			"timestamp": "2022-02-27T15:11:39Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -187,9 +171,7 @@
 			"timestamp": "2022-02-27T15:11:43Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -204,9 +186,7 @@
 			"timestamp": "2022-02-27T15:11:44Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -221,9 +201,7 @@
 			"timestamp": "2022-02-28T16:01:45Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -239,8 +217,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_aarch64_linux.zip"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -255,9 +232,7 @@
 			"timestamp": "2022-02-28T16:09:04Z",
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
-			"distribution": "semeru",
-			"aqavit_results_link": "<Insert AQA link here>",
-			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+			"distribution": "semeru"
 		}],
 		"vendor": "ibm",
 		"openjdk_version_data": {
