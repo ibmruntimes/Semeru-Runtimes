@@ -1,0 +1,223 @@
+{
+	"releases": [{
+		"release_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/tag/jdk-11.0.13%2B8_openj9-0.29.0",
+		"release_name": "jdk-11.0.13+8_openj9-0.29.0",
+		"last_updated_timestamp": "2021-11-24T13:48:23Z",
+		"binaries": [{
+			"os": "aix",
+			"architecture": "ppc64",
+			"image_type": "debugimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-debugimage_ppc64_aix_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_ppc64_aix_11.0.13.0.tar.gz",
+				"sha265sum": "460fbbae9d1b091a6efc1f8e298c99fda69da221869b8444b7a4705d2352b4e6",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_ppc64_aix_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:07:26Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "ppc64le",
+			"image_type": "debugimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-debugimage_ppc64le_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_ppc64le_linux_11.0.13.0.tar.gz",
+				"sha265sum": "ad2baa1e0fa22915e58134429990c138fcce5172290a836ca8002c1a0969daa9",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_ppc64le_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:07:37Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "s390x",
+			"image_type": "debugimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-debugimage_s390x_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_s390x_linux_11.0.13.0.tar.gz",
+				"sha265sum": "786e24e97a9d4e9d909bd6e36a5fdc013fba40d29ce9036f00d4ca9747c054d3",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_s390x_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:07:44Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "x64",
+			"image_type": "debugimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-debugimage_x64_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_x64_linux_11.0.13.0.tar.gz",
+				"sha265sum": "549aeddec8a4e2de963f2e285a438f3fba4ded3a8c79f51140e6e82da581ddcd",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-debugimage_x64_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:07:55Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "aix",
+			"architecture": "ppc64",
+			"image_type": "jdk",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-jdk_ppc64_aix_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.13.0.tar.gz",
+				"sha265sum": "3699c1d3a16ec5b2017419cd4d74f313967fcf283f5a8657601e6440158d70c4",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:08:16Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "ppc64le",
+			"image_type": "jdk",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.13.0.tar.gz",
+				"sha265sum": "8bd821338d2a5f85c258c7294f3170adc1877023f2764c0e43fc65523ddde56a",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:08:42Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "s390x",
+			"image_type": "jdk",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-jdk_s390x_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_s390x_linux_11.0.13.0.tar.gz",
+				"sha265sum": "9c26ff5f5ffb0778972d2769a1ab8460df13bf83eff59979a0a793f62bb89c04",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_s390x_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:08Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "x64",
+			"image_type": "jdk",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-jdk_x64_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_x64_linux_11.0.13.0.tar.gz",
+				"sha265sum": "3dbb4a28b3a9abf94f8d8325ad4a9022c14a50925d5d8438eeb2a66b065c5eb0",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-jdk_x64_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:37Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "aix",
+			"architecture": "ppc64",
+			"image_type": "testimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-testimage_ppc64_aix_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_ppc64_aix_11.0.13.0.tar.gz",
+				"sha265sum": "0ce943dfd53f720f9d55be087ff500222ae67d3b94d34afb9b5d652a068a723b",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_ppc64_aix_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:39Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "ppc64le",
+			"image_type": "testimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-testimage_ppc64le_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_ppc64le_linux_11.0.13.0.tar.gz",
+				"sha265sum": "7c6696dfd99385341a06ae711561007640f0ba32fd1036ae872cad2e7a9bb79d",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_ppc64le_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:41Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "s390x",
+			"image_type": "testimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-testimage_s390x_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_s390x_linux_11.0.13.0.tar.gz",
+				"sha265sum": "1a5c167a33ba662ec33daed8cecbb249d624f2d341682a627cb2e9b0b47312d6",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_s390x_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:42Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}, {
+			"os": "linux",
+			"architecture": "x64",
+			"image_type": "testimage",
+			"jvm_impl": "openj9",
+			"package": {
+				"name": "ibm-semeru-certified-testimage_x64_linux_11.0.13.0.tar.gz",
+				"link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_x64_linux_11.0.13.0.tar.gz",
+				"sha265sum": "713b8a39173f79a7c73b0f4ba59e4d440957d96cc1642e3688d3171b1fcdcdb0",
+				"sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.13%2B8_openj9-0.29.0/ibm-semeru-certified-testimage_x64_linux_11.0.13.0.tar.gz.sha256.txt"
+			},
+			"timestamp": "2021-11-24T05:09:44Z",
+			"scm_ref": "v0.29.0-release",
+			"openjdk_scm_ref": "v0.29.0-release",
+			"distribution": "semeru",
+			"aqavit_results_link": "<Insert AQA link here>",
+			"tck_affidavit_link": "<Insert TCK Affidavit Here>"
+		}],
+		"vendor": "ibm",
+		"openjdk_version_data": {
+			"major": 11,
+			"minor": 0,
+			"security": 13,
+			"patch": null,
+			"pre": null,
+			"build": 8,
+			"optional": null,
+			"openjdk_version": "11.0.13+8"
+		}
+	}]
+}
