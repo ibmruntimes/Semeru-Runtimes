@@ -10,6 +10,7 @@ jobs:
     uses: adoptium/marketplace-data/.github/workflows/validate-data.yml@main
     with:
       json-path: adoptium/marketplace/json/
+      signature-type: SIG
       public-key: |
         -----BEGIN PUBLIC KEY-----
         MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzgMRXzWFvoiYfpGhIBn
