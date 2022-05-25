@@ -18,7 +18,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_ppc64_aix.zip"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/ibm-semeru-certified-jdk_ppc64_aix_11.0.14.1.tap.zip"
 		}, {
 			"os": "linux",
 			"architecture": "ppc64le",
@@ -34,7 +34,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_ppc64le_linux.zip"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/ibm-semeru-certified-jdk_ppc64le_linux_11.0.14.1.tap.zip"
 		}, {
 			"os": "linux",
 			"architecture": "s390x",
@@ -50,7 +50,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_s390x_linux.zip"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/ibm-semeru-certified-jdk_s390x_linux_11.0.14.1.tap.zip"
 		}, {
 			"os": "linux",
 			"architecture": "x64",
@@ -66,7 +66,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_x86-64_linux.zip"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/ibm-semeru-certified-jdk_x64_linux_11.0.14.1.tap.zip"
 		}, {
 			"os": "linux",
 			"architecture": "aarch64",
@@ -82,7 +82,7 @@
 			"scm_ref": "v0.30.1-release",
 			"openjdk_scm_ref": "v0.30.1-release",
 			"distribution": "semeru",
-			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/jdk11_aarch64_linux.zip"
+			"aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.14.1%2B1_openj9-0.30.1/ibm-semeru-certified-jdk_aarch64_linux_11.0.14.1.tap.zip"
 		}],
 		"vendor": "ibm",
 		"openjdk_version_data": {
