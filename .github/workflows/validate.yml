@@ -5,6 +5,9 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
+env:
+  REPO_SIGNATURE_TYPE: SIG    
+
 jobs:
   call-adoptium-verifier:
     uses: adoptium/marketplace-data/.github/workflows/validate-data.yml@main
