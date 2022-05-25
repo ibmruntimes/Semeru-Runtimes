@@ -1,0 +1,22 @@
+name: Validate IBM Data
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  call-adoptium-verifier:
+    uses: adoptium/marketplace-data/.github/workflows/validate-data.yml@main
+    with:
+      json-path: adoptium/marketplace/json/
+      public-key: |
+        -----BEGIN PUBLIC KEY-----
+        MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzgMRXzWFvoiYfpGhIBn
+        caSox3NjivvzJL6UP17B69CENip4ZpMkIEX0zGvhEWbWQHDtjZDhiX9/xHYtQP5f
+        em0rQnU5by4pu4yd0PXAUE9aNQ6Kau8AKSIoIx7UvAI6JYQ5yj42y14Hlgp7wbwU
+        MTHrwLk8HP8o+P8V+iOdJW7jJSKmAmjESExzB6hG46RfI9Yh/kHwFKprtlVGqvp9
+        SITfohTBwp6+YVuAIrya42q9BMendbyW5EicrFPQcGnkQF7iw3l4MXK1lKRfk1EM
+        yJW3fPSL7AkJMDQQsT1XqENmBv3ciHfvh1dTKDh1GUzj3lfGq6bwUGr7k5BAicRK
+        GQIDAQAB
+        -----END PUBLIC KEY-----
