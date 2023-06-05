@@ -13,11 +13,16 @@ jobs:
       signature-type: SIG
       public-key: |
         -----BEGIN PUBLIC KEY-----
-        MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzgMRXzWFvoiYfpGhIBn
-        caSox3NjivvzJL6UP17B69CENip4ZpMkIEX0zGvhEWbWQHDtjZDhiX9/xHYtQP5f
-        em0rQnU5by4pu4yd0PXAUE9aNQ6Kau8AKSIoIx7UvAI6JYQ5yj42y14Hlgp7wbwU
-        MTHrwLk8HP8o+P8V+iOdJW7jJSKmAmjESExzB6hG46RfI9Yh/kHwFKprtlVGqvp9
-        SITfohTBwp6+YVuAIrya42q9BMendbyW5EicrFPQcGnkQF7iw3l4MXK1lKRfk1EM
-        yJW3fPSL7AkJMDQQsT1XqENmBv3ciHfvh1dTKDh1GUzj3lfGq6bwUGr7k5BAicRK
-        GQIDAQAB
+        MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA0f/8LoePKgsHKx5xq1Eb
+        HqhBu24py2MW+RuH6TkHfbR/+3SyAolOx8qBWzJhoj0tQT+7CfoJ/Cm9XVOSDPWa
+        QQDuC5TCwpu4NqsnPm5FakCmHs0wWn76YAyYWfnu2+D9b2JMdRMfV6Q3du0v6OGl
+        Cxp5j40PUjLU96pWX9m+fXJTfcd9GFVzNqqEUa6RQJIZKBGECG6GNOuOE2ra1beQ
+        jQEIhAnWQZ/3NM+aKdG+NiVk3l7wJQ/xRDloYpUso0nmO3PADbz/at1K9JNfMAQj
+        7eO74V1n+f4fYGwcTbb9KfrylTVSkPAiXTx5spVnbR8lkLDZMRcBmeBFM4T+mMcV
+        dyUMMuXjZxwfDLdV2/Cxoam0XcUgRNHZR3kCM8wJJ3sepoQLSslMSf/tZsXFNcPp
+        FomEga1sO9XiBBCoSFhrM6lvSTQ9xTydLTZbk5ZDCUpW6CuOe//KygfzWOaoKgy0
+        2sRemUo2VCO64G9RXBhH1dE3t5dHDhHVHY4OHzNg163lWXeeCQXKdmxFHXEDpqJV
+        CKOMBUzY0GsBegKT5m+6s6uUlexGYwrqeCYOKxP0iYbTlVDOASGJENkizqOHSKgH
+        RcDqx6IF1ZtZ3lCYDCeVEuLaZctfAkSQrfVWxk5ohc0JMTIACl4YvUBbrxE9V3OR
+        lAs5DoKF0qB/yL3XlJfHlCcCAwEAAQ==
         -----END PUBLIC KEY-----
