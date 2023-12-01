@@ -1,5 +1,5 @@
 {
 	"schema_version": "1.0.0",
 	"indexes": [],
-	"releases": ["jdk_11_0_20_1_1_openj9_0_40_0_0.json", "jdk_11_0_20_8_openj9_0_40_0_0.json", "jdk_11_0_19_7_openj9_0_38_0_0.json", "jdk_11_0_18_10_openj9_0_36_1_0.json", "jdk_11_0_17_8_openj9_0_35_0_0.json", "jdk_11_0_16_1_1_openj9_0_33_1_0.json", "jdk_11_0_15_10_openj9_0_32_0_0.json", "jdk_11_0_14_1_1_openj9_0_30_1_0.json"]
+	"releases": ["jdk_11_0_21_9_openj9_0_41_0_0.json", "jdk_11_0_20_1_1_openj9_0_40_0_0.json", "jdk_11_0_20_8_openj9_0_40_0_0.json", "jdk_11_0_19_7_openj9_0_38_0_0.json", "jdk_11_0_18_10_openj9_0_36_1_0.json", "jdk_11_0_17_8_openj9_0_35_0_0.json", "jdk_11_0_16_1_1_openj9_0_33_1_0.json", "jdk_11_0_15_10_openj9_0_32_0_0.json", "jdk_11_0_14_1_1_openj9_0_30_1_0.json"]
 }
