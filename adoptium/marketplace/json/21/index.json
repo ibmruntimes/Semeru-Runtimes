@@ -1,0 +1,5 @@
+{
+	"schema_version": "1.0.0",
+	"indexes": [],
+	"releases": ["jdk_21_0_1_12_openj9_0_42_0_0.json"]
+}
