@@ -1,5 +1,5 @@
 {
 	"schema_version": "1.0.0",
 	"indexes": [],
-	"releases": ["jdk_21_0_2_13_openj9_0_43_0_0.json", "jdk_21_0_1_12_openj9_0_42_0_0.json"]
+	"releases": ["jdk_21_0_3_9_openj9_0_44_0_0.json", "jdk_21_0_2_13_openj9_0_43_0_0.json", "jdk_21_0_1_12_openj9_0_42_0_0.json"]
 }
