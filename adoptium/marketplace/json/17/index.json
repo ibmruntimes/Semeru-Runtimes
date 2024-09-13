@@ -1,5 +1,5 @@
 {
 	"schema_version": "1.0.0",
 	"indexes": [],
-	"releases": ["jdk_17_0_12_7_openj9_0_46_0_0.json", "jdk_17_0_11_9_openj9_0_44_0_0.json", "jdk_17_0_10_7_openj9_0_43_0_0.json", "jdk_17_0_9_9_openj9_0_41_0_0.json", "jdk_17_0_8_1_1_openj9_0_40_0_0.json", "jdk_17_0_8_7_openj9_0_40_0_0.json", "jdk_17_0_7_7_openj9_0_38_0_0.json", "jdk_17_0_6_10_openj9_0_36_0_0.json", "jdk_17_0_5_8_openj9_0_35_0_0.json", "jdk_17_0_4_1_1_openj9_0_33_1_0.json", "jdk_17_0_3_7_openj9_0_32_0_0.json", "jdk_17_0_2_8_openj9_0_30_0_0.json"]
+	"releases": ["jdk_17_0_12_7_openj9_0_46_1_0.json", "jdk_17_0_12_7_openj9_0_46_0_0.json", "jdk_17_0_11_9_openj9_0_44_0_0.json", "jdk_17_0_10_7_openj9_0_43_0_0.json", "jdk_17_0_9_9_openj9_0_41_0_0.json", "jdk_17_0_8_1_1_openj9_0_40_0_0.json", "jdk_17_0_8_7_openj9_0_40_0_0.json", "jdk_17_0_7_7_openj9_0_38_0_0.json", "jdk_17_0_6_10_openj9_0_36_0_0.json", "jdk_17_0_5_8_openj9_0_35_0_0.json", "jdk_17_0_4_1_1_openj9_0_33_1_0.json", "jdk_17_0_3_7_openj9_0_32_0_0.json", "jdk_17_0_2_8_openj9_0_30_0_0.json"]
 }
