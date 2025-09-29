@@ -1,5 +1,5 @@
 {
 	"schema_version": "1.0.0",
-	"indexes": ["11/index.json", "17/index.json", "21/index.json"],
+	"indexes": ["11/index.json", "17/index.json", "21/index.json", "25/index.json"],
 	"releases": []
 }
