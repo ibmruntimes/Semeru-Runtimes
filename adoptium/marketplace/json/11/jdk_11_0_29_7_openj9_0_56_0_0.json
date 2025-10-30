@@ -1,0 +1,192 @@
+{
+    "releases": [
+        {
+            "release_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/tag/jdk-11.0.29.0_openj9-0.56.0",
+            "release_name": "jdk-11.0.29+7_openj9-0.56.0",
+            "last_updated_timestamp": "2025-10-30T17:53:02Z",
+            "binaries": [
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_x64_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_x64_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "a6e555c0cdb1af1fe548134e6951c9b02f52ddf77ea9885f544ac4bbca11b501",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_x64_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:03Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_x64_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_x64_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_x64_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "0f9bc75f7d00526d5b087843d57cbe12bd1d57e7c04ca9ce292687f8a14d02ad",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_x64_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:03Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_x64_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "f21e8768e225b3e9224bd10f455698933f505c1084a45ade87678360fa84a12e",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:04Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_s390x_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_s390x_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "e670e75580b64362257cdd6119331f539f21c0e0cb96e72559022f0ad848dc53",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_s390x_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:04Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_s390x_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "c1dd4ea0ddf6ed262b091e335b69885d079ab4ab44f0793b4fb1e413863e2943",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:05Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64le_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_ppc64le_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "560fec54fd30d1b2efe8c726a8bd6c7f2d7418e17f173d15b72324c6f8c449bf",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_ppc64le_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:05Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64le_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_aarch64_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_aarch64_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "538607e68949c730eabe8ee38c8cd482063e8a4d8ac98ae01273154220469864",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_aarch64_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:05Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_aarch64_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_aarch64_linux_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_aarch64_linux_11.0.29.0.tar.gz",
+                        "sha256sum": "da1d33b47192547822212ea2f1e73af953785b6dfd536b5c42705216dad711ec",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_aarch64_linux_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:06Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_aarch64_linux_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64_aix_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.29.0.tar.gz",
+                        "sha256sum": "371ef5a7ae89f639211f30a9c85b12c2134d22fedcea9475bb8121565ffa4cc8",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:06Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.29.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64_aix_11.0.29.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_ppc64_aix_11.0.29.0.tar.gz",
+                        "sha256sum": "7ccde0d4fc28d9c2ee66c62a38ad1412f0458676c439d19c4c6f6b76f7b671f9",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jre_ppc64_aix_11.0.29.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2025-10-30T17:53:07Z",
+                    "scm_ref": "v0.56.0-release",
+                    "openjdk_scm_ref": "v0.56.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.29%2B7_openj9-0.56.0/ibm-semeru-certified-jdk_ppc64_aix_11.0.29.0.tap.zip"
+                }
+            ],
+            "vendor": "ibm",
+            "openjdk_version_data": {
+                "major": 11,
+                "minor": 0,
+                "security": 29,
+                "patch": null,
+                "pre": null,
+                "build": 7,
+                "optional": null,
+                "openjdk_version": "11.0.29+7"
+            }
+        }
+    ]
+}

@@ -2,6 +2,7 @@
 	"schema_version": "1.0.0",
 	"indexes": [],
 	"releases": [
+		"jdk_21_0_9_10_openj9_0_56_0_0.json",
 		"jdk_21_0_8_9_openj9_0_53_0_0.json",
 		"jdk_21_0_7_6_openj9_0_51_0_0.json",
 		"jdk_21_0_6_7_openj9_0_49_0_0.json",
