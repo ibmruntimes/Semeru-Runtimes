@@ -1,0 +1,192 @@
+{
+    "releases": [
+        {
+            "release_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/tag/jdk-25.0.4.0",
+            "release_name": "jdk-25.0.4+7.0",
+            "last_updated_timestamp": "2026-07-31T15:23:27Z",
+            "binaries": [
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_x64_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_x64_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "4ee1ef2307193f5b03b318adb1747f7224e3ed288e237edd98a8620ce1c3d6d0",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_x64_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_x64_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_x64_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_x64_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "fe5af69175d8ac40439ac4712d5fbf034a4d16df58c6a4beedcb629b18aab461",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_x64_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_x64_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_s390x_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_s390x_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "28853d2f4a2e6db7e3c31fbd17fdd4971949f9f912dc49f888e1ceabd1c3d35a",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_s390x_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_s390x_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_s390x_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_s390x_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "f02d957d22d34617ae5108553b01882126900a9b794293a13b9a982829feb843",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_s390x_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_s390x_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64le_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64le_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "b16b2536182e56fa1db26b239a388ae8a0dd66cdfefc0863b1705535f4613971",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64le_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64le_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64le_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64le_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "8e192bbe0f1e0041051e7de932dee8f51a81e211bc870252c39ea8bd59c615d0",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64le_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64le_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_aarch64_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_aarch64_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "f68606a0dc8c95967d73e4c50780297a427b00f742451ce6f889279b15f1923a",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_aarch64_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_aarch64_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_aarch64_linux_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_aarch64_linux_25.0.4.0.tar.gz",
+                        "sha256sum": "70fd4b9e7625cdd619889242650cf511b103861a00fb4fe4d2fde96283a32112",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_aarch64_linux_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_aarch64_linux_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64_aix_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64_aix_25.0.4.0.tar.gz",
+                        "sha256sum": "6a90cec5b6ca05f4e2c6e7e5b4e1a9ca5a6ba3179c275d6245b3301bc7cac9a3",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64_aix_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jdk_ppc64_aix_25.0.4.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64_aix_25.0.4.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64_aix_25.0.4.0.tar.gz",
+                        "sha256sum": "ad4ce46a961c0f1ebf41c8f1536ea47baec7f3f21e3aa8d9439e0bc10ec1959d",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64_aix_25.0.4.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T15:23:27Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru25-certified-binaries/releases/download/jdk-25.0.4.0/ibm-semeru-certified-jre_ppc64_aix_25.0.4.0.tap.zip"
+                }
+            ],
+            "vendor": "ibm",
+            "openjdk_version_data": {
+                "major": 25,
+                "minor": 0,
+                "security": 4,
+                "patch": null,
+                "pre": null,
+                "build": 7,
+                "optional": null,
+                "openjdk_version": "25.0.4+7.0"
+            }
+        }
+    ]
+}
