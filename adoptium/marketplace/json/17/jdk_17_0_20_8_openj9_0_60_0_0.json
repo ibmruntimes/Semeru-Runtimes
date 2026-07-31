@@ -1,0 +1,192 @@
+{
+    "releases": [
+        {
+            "release_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/tag/jdk-17.0.20.0",
+            "release_name": "jdk-17.0.20+8.0",
+            "last_updated_timestamp": "2026-07-31T18:45:41Z",
+            "binaries": [
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_x64_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_x64_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "f9f525b99cd0ea4e059daf41f359233814a850cf07dd53f094e64c31e059d155",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_x64_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_x64_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "x64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_x64_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_x64_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "6beb9e0a4919be9f888ee44244e8e69a27e0acaf5cd103c7c7a8f575fa52280b",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_x64_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_x64_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_s390x_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_s390x_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "ccb26002324f22517ca9fd6db6e891d0d3b0b49abe2f49d0f3f8fa610a617dfa",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_s390x_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_s390x_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "s390x",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_s390x_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_s390x_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "63fc0fcafe56fa445093efbfda75742657b2923d488c18614ef470622ef998c4",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_s390x_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_s390x_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64le_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "d77181af958e993d6ad7cacb4c5ef06933dce89b63ed628580c8f8afb2af10d3",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64le_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64le_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "ppc64le",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64le_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64le_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "890fe961d91b8b09c3b4a84825c6672b325194d9e229ad572392a99fe58d68a8",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64le_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64le_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_aarch64_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_aarch64_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "770c33c811626f428ef37e60d5422c87093547cddab339a816c7db1e2bee2327",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_aarch64_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_aarch64_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "linux",
+                    "architecture": "aarch64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_aarch64_linux_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_aarch64_linux_17.0.20.0.tar.gz",
+                        "sha256sum": "10f3b44d6e2478b198766006f5253b844067685f7ea23e15963cbe484372f5d6",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_aarch64_linux_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_aarch64_linux_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jdk",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jdk_ppc64_aix_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64_aix_17.0.20.0.tar.gz",
+                        "sha256sum": "7250e3f86a35fca714995d141ff92158f4d506d17a4fe84ea59270318c01444c",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64_aix_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jdk_ppc64_aix_17.0.20.0.tap.zip"
+                },
+                {
+                    "os": "aix",
+                    "architecture": "ppc64",
+                    "image_type": "jre",
+                    "jvm_impl": "openj9",
+                    "package": {
+                        "name": "ibm-semeru-certified-jre_ppc64_aix_17.0.20.0.tar.gz",
+                        "link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64_aix_17.0.20.0.tar.gz",
+                        "sha256sum": "eba5e8078f1ce424870f60da146e3721fa12c28414f1963e33a0ffcde73e09bf",
+                        "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64_aix_17.0.20.0.tar.gz.sha256.txt"
+                    },
+                    "timestamp": "2026-07-31T18:45:41Z",
+                    "scm_ref": "v0.60.0-release",
+                    "openjdk_scm_ref": "v0.60.0-release",
+                    "distribution": "semeru",
+                    "aqavit_results_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-certified-jre_ppc64_aix_17.0.20.0.tap.zip"
+                }
+            ],
+            "vendor": "ibm",
+            "openjdk_version_data": {
+                "major": 17,
+                "minor": 0,
+                "security": 20,
+                "patch": null,
+                "pre": null,
+                "build": 8,
+                "optional": null,
+                "openjdk_version": "17.0.20+8.0"
+            }
+        }
+    ]
+}
