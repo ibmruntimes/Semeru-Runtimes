@@ -3,7 +3,7 @@
         {
             "release_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/tag/jdk-17.0.20.15",
             "release_name": "jdk-17.0.20.1+1.0",
-            "last_updated_timestamp": "2026-09-23T18:54:57Z",
+            "last_updated_timestamp": "2026-09-24T20:24:08Z",
             "binaries": [
                 {
                     "os": "linux",
@@ -16,7 +16,7 @@
                         "sha256sum": "e1a889fb0afa3fbd0e5bb8b355a54cb2e4120a30b228ea4a92d2a6481c359075",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jdk_x64_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -33,7 +33,7 @@
                         "sha256sum": "2b7fb4c20bd397839d2ed9e90158cb623488d1adcf8beb7bfbf45e59ec9f8c9c",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jre_x64_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -50,7 +50,7 @@
                         "sha256sum": "a89e65502874f184f6a3a39ca762fdbcf61f5f9751ec661b77f46b021b1477dd",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jdk_s390x_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -67,7 +67,7 @@
                         "sha256sum": "ce1f8d5b27386a411ad0b5a0b0282c501efbaa4b3b52688a17d042bbc87ebec6",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jre_s390x_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -84,7 +84,7 @@
                         "sha256sum": "14af740611bfa13c75640d9e5e5344406b5c51fc67742ff80dcbc78dead258ef",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jdk_ppc64le_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -101,7 +101,7 @@
                         "sha256sum": "d16f1cd2951e95df52bcfba9572f26cb7c0e311cb87fb901a52e685edefdbf99",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jre_ppc64le_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -118,7 +118,7 @@
                         "sha256sum": "abec3185c7a6ba2643269dff25a1ff6c587d537178b7f84ef112a2f559ec47e5",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jdk_aarch64_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -135,7 +135,7 @@
                         "sha256sum": "aae45ac1daf1349157fec02ee12ed726af7593f6ff862393b9c20d12e0c4e17c",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jre_aarch64_linux_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -152,7 +152,7 @@
                         "sha256sum": "316d4c72c0200eb8d77d26820b7eb3b4eeffe9af111b8cf3c54c30c559c7b448",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jdk_ppc64_aix_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
@@ -169,7 +169,7 @@
                         "sha256sum": "9aa7f108498fa44b632945f58b6dda706534b331c0afa44dd0f3512ec86f6c6c",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.20.15/ibm-semeru-certified-jre_ppc64_aix_17.0.20.15.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-09-23T18:54:57Z",
+                    "timestamp": "2026-09-24T20:24:08Z",
                     "scm_ref": "v0.61.0-release",
                     "openjdk_scm_ref": "v0.61.0-release",
                     "distribution": "semeru",
