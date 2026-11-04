@@ -3,7 +3,7 @@
         {
             "release_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/tag/jdk-21.0.13.0",
             "release_name": "jdk-21.0.13.0",
-            "last_updated_timestamp": "2026-10-29T17:42:39Z",
+            "last_updated_timestamp": "2026-11-04T21:30:11Z",
             "binaries": [
                 {
                     "os": "linux",
@@ -16,7 +16,7 @@
                         "sha256sum": "b0045ea65b3b95197e8fd9a70a52383ffcb7f7d5c4cf8c9267896f8fd97120d2",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jdk_x64_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -33,7 +33,7 @@
                         "sha256sum": "ec9e84e6a9411c48a530988c6248a164b9472b4dfe3ac2115399314e4b8ebe37",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jre_x64_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -50,7 +50,7 @@
                         "sha256sum": "80832826fbc1d0fa81a7531ae81081e86d5b69db9ead4e5e0f0c2bb54b90d8b6",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jdk_s390x_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -67,7 +67,7 @@
                         "sha256sum": "67527a1918c9200aea5e751668f1b917c575c3cca350289f317e89ed0ef90092",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jre_s390x_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -84,7 +84,7 @@
                         "sha256sum": "65008a3a0de0ed7c82c9004f99ed8327b4c27675511922bc6308fcd5546f5d8c",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jdk_ppc64le_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -101,7 +101,7 @@
                         "sha256sum": "e314b3ffbefeefae54bb3eec03287a3f1cfaa30d48f9e14f2bb498547fd70fdb",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jre_ppc64le_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -118,7 +118,7 @@
                         "sha256sum": "58b3473543dcc3cd960d757d73b2ee690a8646d2bb99f3d97227bfca85432c3d",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jdk_aarch64_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -135,7 +135,7 @@
                         "sha256sum": "7f1dc470b861d699cf8bcbf1e507b8f97072b92ef8a10668360172612eb7ef6c",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jre_aarch64_linux_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -152,7 +152,7 @@
                         "sha256sum": "662cba0f2401c96bec0ff4156a24ccf9daae62dcd25d76e99f9d7ecc1be45429",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jdk_ppc64_aix_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
@@ -169,7 +169,7 @@
                         "sha256sum": "df76eff617dcdb312011ef5a84fca1b3cffe9f749b9bf7885b777c2000c208ad",
                         "sha256sum_link": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.13.0/ibm-semeru-certified-jre_ppc64_aix_21.0.13.0.tar.gz.sha256.txt"
                     },
-                    "timestamp": "2026-10-29T17:42:39Z",
+                    "timestamp": "2026-11-04T21:30:11Z",
                     "scm_ref": "v0.63.0-release",
                     "openjdk_scm_ref": "v0.63.0-release",
                     "distribution": "semeru",
